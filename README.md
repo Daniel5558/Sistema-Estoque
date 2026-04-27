@@ -1,20 +1,17 @@
-# Sistema de Estoque
+# Conta Bancária Python
 
-Sistema simples de controle de estoque desenvolvido em Python.
+Sistema bancário simples desenvolvido em Python com orientação a objetos.
 
 ## Funcionalidades
 
-- Adicionar produto
-- Listar produtos
-- Buscar produto
-- Remover produto
+- Ver saldo
+- Depositar
+- Sacar (com proteção contra saldo insuficiente)
 
 ## Como executar
 
 ```bash
-python estoque.py
+python Conta_bancaria.py
 ```
 
 ## Tecnologias
-
-- Python 3
