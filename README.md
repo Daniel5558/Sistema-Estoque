@@ -1,17 +1,21 @@
-# Conta Bancária Python
+# Projetos Python
 
-Sistema bancário simples desenvolvido em Python com orientação a objetos.
+Repositório com projetos desenvolvidos durante meus estudos de Python.
 
-## Funcionalidades
+## Projetos
 
-- Ver saldo
-- Depositar
-- Sacar (com proteção contra saldo insuficiente)
+### Sistema de Estoque
+Sistema de controle de estoque com menu interativo.
+- Adicionar, listar, buscar e remover produtos
 
-## Como executar
+### Calculadora
+Calculadora com as quatro operações básicas.
+- Adição, subtração, multiplicação e divisão (com proteção contra divisão por zero)
 
-```bash
-python Conta_bancaria.py
-```
+### Conta Bancária
+Sistema bancário com orientação a objetos.
+- Ver saldo, depositar e sacar (com proteção contra saldo insuficiente)
 
 ## Tecnologias
+
+- Python 3
